@@ -59,6 +59,8 @@ El reto consiste en decidir si puede afirmarse que estos productos tienen calida
 
 ## 3.2 Producto B: Llave funcional pero con acabado diferente al esperado
 
+### Análisis General
+
 | Aspecto | Análisis |
 |---------|----------|
 | **Conformidad técnica** | ✅ Probablemente sí: si funciona, cumple las especificaciones funcionales |
@@ -66,7 +68,156 @@ El reto consiste en decidir si puede afirmarse que estos productos tienen calida
 | **Satisfacción del cliente** | ❌ Parcial: el acabado no es el esperado, generando decepción estética |
 | **Calidad percibida** | ⚠️ Mixta: funcional pero visualmente insatisfactoria |
 
-**¿Tiene calidad?** **Parcialmente.** Según la definición de Juran (1988) de "aptitud para el uso" (*fitness for use*), el producto funcionalmente tiene calidad. Sin embargo, desde la perspectiva del cliente, el acabado es un requisito implícito que afecta la percepción global de calidad. ISO 9000:2015 define calidad como el "grado en que un conjunto de características inherentes cumple los requisitos" (ISO, 2015), y los requisitos incluyen tanto los explícitos como los implícitos. Si el cliente esperaba un acabado específico y no lo recibió, el producto no cumple con todos los requisitos.
+### ¿Tiene calidad?
+
+**Parcialmente.** Según la definición de Juran (1988) de "aptitud para el uso" (*fitness for use*), el producto funcionalmente tiene calidad. Sin embargo, desde la perspectiva del cliente, el acabado es un requisito implícito que afecta la percepción global de calidad. ISO 9000:2015 define calidad como el "grado en que un conjunto de características inherentes cumple los requisitos" (ISO, 2015), y los requisitos incluyen tanto los explícitos como los implícitos. Si el cliente esperaba un acabado específico y no lo recibió, el producto no cumple con todos los requisitos.
+
+---
+
+### 3.2.1 Registro Individual: ¿Qué se entiende inicialmente por calidad respecto al Producto B?
+
+Al analizar el Producto B, la comprensión inicial de calidad varía según la persona:
+
+| Perspectiva Individual | Entendimiento Inicial |
+|------------------------|------------------------|
+| **Ingeniero** | La llave tiene calidad porque funciona correctamente. El acabado es un aspecto cosmético que no afecta la funcionalidad principal. |
+| **Inspector de calidad** | La llave tiene calidad si cumple con las dimensiones y especificaciones técnicas del plano. El acabado superficial no es un criterio de calidad primario. |
+| **Cliente** | La llave NO tiene calidad porque el acabado no es el esperado. Aunque funcione, la experiencia sensorial y visual es decepcionante. |
+| **Vendedor** | La llave tiene calidad funcional pero no calidad percibida. Se venderá más si el acabado es mejor. |
+| **Gerente de producción** | La llave tiene calidad porque cumple las especificaciones funcionales. El acabado es un problema de estética, no de calidad. |
+| **Diseñador** | La calidad del Producto B depende de si el acabado estaba especificado en el diseño. Si no estaba, la calidad es deficiente en el diseño. |
+
+**Reflexión inicial:** La mayoría de las perspectivas técnicas y de producción tienden a considerar que el Producto B tiene calidad porque "funciona". Sin embargo, desde la perspectiva del cliente y del diseño, la calidad es incompleta.
+
+---
+
+### 3.2.2 Comparación de Definiciones del Equipo: Coincidencias y Diferencias
+
+| Elemento | Coincidencias | Diferencias |
+|-----------|---------------|-------------|
+| **Funcionalidad como calidad** | La mayoría coincide en que la llave funcional tiene cierto nivel de calidad | Algunos argumentan que solo la funcionalidad no es suficiente para hablar de calidad completa |
+| **Acabado como requisito** | Todos reconocen que el acabado es un aspecto relevante | Los ingenieros lo consideran cosmético; los clientes lo consideran esencial |
+| **Requisitos explícitos vs. implícitos** | Algunos reconocen la diferencia | La mayoría no distingue entre ambos tipos de requisitos |
+| **El cliente como juez final** | Pocos consideran al cliente como la máxima autoridad | La mayoría considera que el fabricante es quien define la calidad |
+| **Calidad = ausencia de defectos** | Muchos lo consideran así | Crosby (1979) y Juran (1988) argumentan que es más amplio |
+| **El papel de la inspección** | Se asume que si pasa inspección, tiene calidad | Otros argumentan que la inspección solo verifica, no define calidad |
+
+**Conclusión del análisis comparativo:** Existe una brecha significativa entre las definiciones técnicas de calidad (basadas en conformidad y funcionalidad) y las definiciones basadas en el cliente (basadas en satisfacción y percepción). El Producto B revela que **la calidad no es un atributo objetivo del producto, sino una evaluación subjetiva que depende de quién evalúa**.
+
+---
+
+### 3.2.3 Análisis de los Tres Casos: Elementos que Intervienen en el Juicio de Calidad (enfoque en Producto B)
+
+#### Elementos que intervienen en el juicio de calidad del Producto B:
+
+| Elemento | Análisis | Referencia |
+|----------|----------|------------|
+| **1. Especificaciones técnicas** | La llave cumple las especificaciones funcionales de operación | Conformidad (Crosby, 1979) |
+| **2. Funcionalidad** | La llave abre y cierra la cerradura correctamente | Aptitud para el uso (Juran, 1988) |
+| **3. Acabado superficial** | Diferente al esperado: puede ser textura, color, brillo | Características inherentes (ISO 9000:2015) |
+| **4. Expectativas del cliente** | El cliente esperaba un acabado específico y no lo recibió | Requisitos implícitos (Kano, 1984) |
+| **5. Percepción sensorial** | La experiencia táctil y visual del producto es diferente a lo esperado | Calidad percibida (Parasuraman et al., 1988) |
+| **6. Relación precio-valor** | Si el precio es bajo, el acabado deficiente puede ser aceptable | Relación costo-calidad (Feigenbaum, 1991) |
+| **7. Competencia** | Si los competidores tienen mejor acabado, el Producto B pierde | Diferenciación competitiva (Baldrige, 1987) |
+| **8. Contexto de uso** | Si la llave se usa en un entorno industrial, el acabado importa menos que en uno residencial | Contexto de uso (Juran, 1988) |
+| **9. Marca y reputación** | Si la marca es reconocida, se espera un acabado superior | Expectativas de marca |
+| **10. Información proporcionada** | Si el cliente fue informado del acabado, la decepción disminuye | Transparencia y comunicación |
+
+**Análisis del Producto B:** El juicio de calidad del Producto B depende de la interacción entre estos 10 elementos. Para un ingeniero, predominan los elementos 1 y 2 (funciona). Para un cliente, predominan los elementos 3, 4 y 5 (acabado, expectativas, percepción). El problema fundamental del Producto B es que **la empresa definió la calidad basándose solo en los elementos técnicos y no consideró los elementos de percepción y expectativa del cliente**.
+
+#### Comparación entre los tres productos:
+
+| Producto | Elementos Técnicos | Elementos del Cliente | Elementos de Mercado | Juicio Global |
+|----------|--------------------|-----------------------|----------------------|---------------|
+| **A** | ✅ Cumplidos | ❌ No satisfechos (función) | ❌ Rechazado | ❌ No tiene calidad |
+| **B** | ✅ Cumplidos | ⚠️ Parcialmente satisfechos (acabado) | ⚠️ Venta difícil | ⚠️ Calidad parcial |
+| **C** | ✅ Cumplidos internamente | ❌ No satisfechos (uso real) | ❌ Devoluciones masivas | ❌ No tiene calidad |
+
+---
+
+### 3.2.4 Diferenciación Conceptual Aplicada al Producto B
+
+| Concepto | Aplicación al Producto B |
+|----------|---------------------------|
+| **Calidad** | El Producto B tiene calidad solo en la medida en que cumple las necesidades del cliente, incluyendo el acabado. Si el acabado es un requisito implícito del cliente, la calidad es incompleta. |
+| **Inspección** | Un inspector podría aprobar el Producto B porque funciona y cumple las dimensiones. La inspección no detecta la insatisfacción del cliente por el acabado. |
+| **Conformidad** | El Producto B cumple las especificaciones funcionales (conformidad técnica), pero puede no cumplir las especificaciones estéticas (conformidad perceptual). |
+| **Desempeño** | El desempeño funcional es excelente (abre/cierra correctamente). El desempeño estético es deficiente (acabado diferente). |
+| **Satisfacción del cliente** | Parcial. El cliente está satisfecho con la funcionalidad pero insatisfecho con la apariencia. La satisfacción global es mixta. |
+
+**Reflexión:** La diferenciación conceptual es fundamental para entender el Producto B. Un producto puede ser **conforme** y **funcional** sin ser **satisfactorio**. La calidad integra todos estos conceptos: conformidad + funcionalidad + satisfacción.
+
+---
+
+### 3.2.5 Identificación de Quienes Pueden Tener Perspectivas Diferentes sobre el Producto B
+
+| Actor | Perspectiva sobre la Calidad del Producto B | Razón de la Diferencia |
+|--------|-----------------------------------------------|------------------------|
+| **Cliente final** | NO tiene calidad: el acabado no es el esperado | La calidad es lo que el cliente percibe y necesita |
+| **Ingeniero de diseño** | Tiene calidad funcional: cumple los requisitos técnicos | La calidad es la precisión técnica y la funcionalidad |
+| **Inspector de calidad** | Tiene calidad: pasa las pruebas de funcionalidad | La calidad es la conformidad con las especificaciones |
+| **Gerente de marketing** | Tiene calidad parcial: se puede vender pero con desventaja | La calidad es la percepción de mercado |
+| **Proveedor de materiales** | Tiene calidad: los materiales son conformes | La calidad es la entrega de insumos según especificaciones |
+| **Competidor** | No tiene calidad competitiva: su producto tiene mejor acabado | La calidad es la diferenciación |
+| **Auditor ISO** | Calidad parcial: la calidad estética no está en el alcance de ISO 9001 | La calidad es el cumplimiento de procesos documentados |
+| **Estudiante de ingeniería** | Tiene calidad funcional pero no estética | La calidad es un concepto técnico multidimensional |
+| **Filósofo de la calidad** | La calidad es contextual: depende de quién evalúe y para qué | La calidad es un concepto subjetivo y relacional |
+
+**Análisis:** El Producto B demuestra que **la calidad es un juicio social y no una propiedad absoluta**. El mismo producto puede tener calidad para un ingeniero y no para un cliente. La gestión de la calidad efectiva requiere integrar estas diferentes perspectivas, no privilegiar una sobre las demás.
+
+---
+
+### 3.2.6 Consulta de Fuentes Académicas y Contraste con la Definición Inicial
+
+**Fuentes consultadas y hallazgos:**
+
+| Fuente | Definición de Calidad | Contraste con Producto B |
+|--------|------------------------|---------------------------|
+| **ISO 9000:2015** | "Grado en que un conjunto de características inherentes cumple requisitos" (ISO, 2015) | ✅ Aplica: el Producto B cumple algunos requisitos pero no todos (el acabado implícito) |
+| **Crosby (1979)** | "Conformidad con los requisitos" | ⚠️ Parcial: el Producto B cumple requisitos técnicos pero no los implícitos |
+| **Juran (1988)** | "Aptitud para el uso" (*fitness for use*) | ⚠️ Parcial: el Producto B es apto para usarse pero no para complacer al cliente |
+| **Deming (1986)** | "Buena calidad = predictibilidad + estándar adecuado al cliente" | ❌ No aplica completamente: la predicción es buena pero el estándar no es adecuado al cliente |
+| **Kano (1984)** | Clasificación de atributos: must-be, one-dimensional, attractive | ✅ Aplica: el acabado puede ser un atributo "one-dimensional" (más = más satisfecho) o "attractive" |
+| **Parasuraman et al. (1988)** | Servqual: calidad como差距 entre expectativas y percepciones | ✅ Aplica: el Producto B tiene una brecha entre la expectativa (acabado esperado) y la percepción (acabado real) |
+
+**Contraste con la definición inicial:** La definición inicial ("la calidad es cuando un producto cumple las especificaciones técnicas y no tiene defectos visibles") fue cuestionada por las fuentes académicas. Kano (1984) demuestra que los requisitos se clasifican en diferentes tipos (must-be, one-dimensional, attractive), y que la insatisfacción del Producto B proviene de atributos "one-dimensional" donde más = más satisfecho. Parasuraman et al. (1988) demuestran que la calidad se mide como la brecha entre expectativas y percepciones, y el Producto B tiene una brecha negativa en el atributo estético.
+
+---
+
+### 3.2.7 Reformulación de la Definición Individual y Colectiva de Calidad
+
+#### Definición Individual (antes del análisis del Producto B):
+
+> *"La calidad es cuando un producto funciona correctamente y cumple las especificaciones técnicas."*
+
+#### Definición Individual (después del análisis del Producto B):
+
+> **"La calidad es cuando un producto cumple tanto los requisitos explícitos como los implícitos del cliente, en todos los atributos que el cliente valora —funcionales, estéticos, perceptuales y emocionales—, y lo hace de manera consistente a lo largo de todo su ciclo de vida."**
+
+#### Definición Colectiva del Equipo:
+
+> **"La calidad es un juicio contextual que integra la conformidad técnica, la aptitud funcional, la satisfacción estética y la percepción del cliente. Un producto tiene calidad cuando todos los actores involucrados (cliente, diseñador, productor, regulador) coinciden en que el producto cumple sus necesidades y expectativas específicas, tanto las declaradas como las no declaradas."**
+
+---
+
+### 3.2.8 Registro de Qué Cambió Entre la Idea Inicial y la Definición Revisada (Producto B)
+
+| Aspecto | Idea Inicial | Definición Revisada | Cambio |
+|---------|--------------|---------------------|--------|
+| **Definición de calidad** | "Funciona correctamente" | "Cumple requisitos explícitos e implícitos del cliente" | De enfoque técnico a enfoque centrado en el cliente |
+| **Rol del acabado** | Cosmetización irrelevante | Requisito implícito que afecta la calidad global | De desprecio a valoración de atributos sensoriales |
+| **Responsabilidad** | Del departamento de producción | De toda la organización, desde el diseño | De operativa a estratégica |
+| **Criterio de éxito** | Ausencia de defectos funcionales | Satisfacción del cliente en todos los atributos | De conformidad a percepción |
+| **Tipo de requisitos** | Solo especificaciones escritas | Explícitos + implícitos | De un solo tipo a clasificación multidimensional (Kano) |
+| **Evaluación de calidad** | Objetiva (técnica) | Subjetiva y relacional | De medición a juicio contextual |
+| **Momento de la calidad** | Durante la producción | Desde el diseño hasta el servicio postventa | De instantánea a ciclo de vida completo |
+| **Fuente de verdad** | Especificaciones del fabricante | Expectativas y percepciones del cliente | De interna a externa |
+| **Inspección** | Define la calidad | Solo detecta fallos en la calidad | De definición a detección |
+| **Relación con el mercado** | No considerada | Determinante de la calidad percibida | De aislamiento a integración |
+
+**Lo más significativo que cambió:** La comprensión de que **el Producto B no tiene calidad completa porque el acabado —aunque no afecte la funcionalidad— es un requisito implícito que el cliente valora**. Esto transformó la visión de "funcionar = calidad" a "funcionar + complacer = calidad". La lección del Producto B es que la calidad no se mide solo con calibres y pruebas funcionales, sino con la percepción, la experiencia y la satisfacción del cliente en todos los sentidos de la experiencia del producto.
+
+---
 
 ## 3.3 Producto C: Llave que cumple especificaciones internas pero genera devoluciones
 
